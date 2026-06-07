@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "bilyarda-wiBN.aternos.me",
+    "port": 64710,
+    "version": "1.21.10"
   },
   "position": {
     "enabled": true,
@@ -30,8 +30,8 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "aku billy pemilik server",
+        "bilyarda-wiBN.aternos.me:64710",
         "I like to play Minecraft!"
       ]
     },
